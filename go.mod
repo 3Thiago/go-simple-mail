@@ -1,4 +1,4 @@
-module github.com/3Thiago/go-simple-mail/v2
+module github.com/3Thiago/go-simple-mail
 
 go 1.13
 
