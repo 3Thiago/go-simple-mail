@@ -1,13 +1,9 @@
 github.com/3Thiago/go-dkim v0.0.0-20201103131630-e1cd1a0a5208 h1:4keFrOQHCPWAk9VM5WTdTU4Z58DGRr6BrmnzQQjXHaQ=
 github.com/3Thiago/go-dkim v0.0.0-20201103131630-e1cd1a0a5208/go.mod h1:CflnAe/9ZwrVgxsG0GHZjyB8f/R7qFSJfGcZAJHmkbU=
-github.com/3Thiago/go-simple-mail v1.0.0 h1:BsrfTG1xPNtY8XeOiICG/QmJznGhZvdjz1/eyO0FCLU=
-github.com/3Thiago/go-simple-mail v1.0.0/go.mod h1:eY4of9P2jIqu42hEYUxfQaDAQ7JRA19wpocrRglXqZ4=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/go-test/deep v1.0.8 h1:TDsG77qcSprGbC6vTN8OuXp5g+J+b5Pcguhf7Zt61VM=
 github.com/go-test/deep v1.0.8/go.mod h1:5C2ZWiW0ErCdrYzpqxLbTX7MG14M9iiw8DgHncVwcsE=
-github.com/joegrasse/mime v0.0.0-20151001172835-f543c4783e35 h1:onVWojd9sn2EXatgzU6X61N05cZVga4bTLyTuJY/W5M=
-github.com/joegrasse/mime v0.0.0-20151001172835-f543c4783e35/go.mod h1:HCNVm2oxH9F8N1jYFa03+MWzfPddTG6n5R5P7qdgAZk=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
