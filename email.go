@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/toorop/go-dkim"
+	"github.com/3Thiago/go-dkim"
 )
 
 // Email represents an email message.
